@@ -365,7 +365,7 @@ textarea.form-control {
 /* ---------------------------------------------- */
 
 #home {
-    background: url(../images/cover.jpg);
+    background: url(../images/foto\ coração.jpg);
     background-color: #222;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -569,7 +569,7 @@ textarea.form-control {
 .navbar-custom .navbar-nav .dropdown-menu>li>a {
     font-size: 11px;
     letter-spacing: 3px;
-    color: #222;
+    color: #ca0c0c;
 }
 
 .navbar-custom .nav li.active,

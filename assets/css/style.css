@@ -272,7 +272,7 @@ textarea.form-control {
 .pfblock-image h4,
 .pfblock-image h5,
 .pfblock-image h6 {
-    color: #fff;
+    color: #c00c06;
 }
 
 .pfblock-header {
@@ -1417,4 +1417,7 @@ figure.effect-bubba:hover p {
     -webkit-animation-name: drunk;
     -moz-animation-name: drunk;
     animation-name: drunk;
+}
+.time-container {
+    text-align: center;
 }
